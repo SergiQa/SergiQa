@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<image src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" alt="Descripción de la imagen">
+### Hi there 👋
+  
 <!--
 **SergiQa/SergiQa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
