@@ -1,5 +1,5 @@
 
-<image src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" alt="Descripción de la imagen">
+<image src="https://www.bits-pilani.ac.in/Uploads/Goa/goaComputersceience/Microcontent/2016-10-3--9-37-20-688_data-science_copy.jpg" alt="Descripción de la imagen">
 ### Hi there 👋
   
 <!--
